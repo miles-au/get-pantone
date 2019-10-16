@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/get-pantone/static/css/main.d2f3af59.chunk.css",
+    "main.js": "/get-pantone/static/js/main.4ebb5789.chunk.js",
+    "main.js.map": "/get-pantone/static/js/main.4ebb5789.chunk.js.map",
+    "runtime-main.js": "/get-pantone/static/js/runtime-main.76d8eca7.js",
+    "runtime-main.js.map": "/get-pantone/static/js/runtime-main.76d8eca7.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/get-pantone/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4a9f4cc8.chunk.js": "/get-pantone/static/js/2.4a9f4cc8.chunk.js",
+    "static/js/2.4a9f4cc8.chunk.js.map": "/get-pantone/static/js/2.4a9f4cc8.chunk.js.map",
+    "index.html": "/get-pantone/index.html",
+    "precache-manifest.e35d912b0edb92a8f508ced55be2338b.js": "/get-pantone/precache-manifest.e35d912b0edb92a8f508ced55be2338b.js",
+    "service-worker.js": "/get-pantone/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/get-pantone/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.d2f3af59.chunk.css.map": "/get-pantone/static/css/main.d2f3af59.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76d8eca7.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4a9f4cc8.chunk.js",
+    "static/css/main.d2f3af59.chunk.css",
+    "static/js/main.4ebb5789.chunk.js"
+  ]
+}
